@@ -1,1 +1,1 @@
-# job-application-tracker-project
+#This code creates a Job Application Manager that leverages a min-heap to prioritize tasks based on deadlines and importance levels. The JobApplication class defines each application, capturing details such as company, role, deadline, priority, and status. The JobTracker class manages these applications, offering features like adding new jobs, processing the most urgent ones, updating their statuses, and displaying pending tasks in priority order. 
